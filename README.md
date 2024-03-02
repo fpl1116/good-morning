@@ -1,6 +1,14 @@
 # 每日早安推送
 
-
+城市：{{city.DATA}}
+日期：{{date1.DATA}}
+今天是：{{week.DATA}}
+天气：{{weather.DATA}}
+当前温度：{{temperature.DATA}}
+空气建议：{{tips.DATA}}
+今天是我们认识的第 {{love_days.DATA}}天
+距离你的生日还有 {{birthday_left.DATA}}天
+{{words.DATA}}
 
 效果如图。当然，文字是可以修改的。
 ![5e72e89fd7ff692a0bfa62010517c0c](https://user-images.githubusercontent.com/9566402/183242263-c93517a2-5377-435d-8386-8d47252c9e07.jpg)
